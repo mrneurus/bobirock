@@ -1,19 +1,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on My New Hugo Site</title>
+        <title>Posts on El baul de Bobi</title>
         <link>http://bobirock.nahuedev.com.ar/posts/</link>
-        <description>Recent content in Posts on My New Hugo Site</description>
+        <description>Recent content in Posts on El baul de Bobi</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 24 Aug 2020 20:10:42 -0300</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2020 20:48:55 -0300</lastBuildDate>
         <atom:link href="http://bobirock.nahuedev.com.ar/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>My First Post</title>
-            <link>http://bobirock.nahuedev.com.ar/posts/my-first-post/</link>
-            <pubDate>Mon, 24 Aug 2020 20:10:42 -0300</pubDate>
+            <title>Programacion Estructurada</title>
+            <link>http://bobirock.nahuedev.com.ar/posts/programacion-estructurada/</link>
+            <pubDate>Mon, 24 Aug 2020 20:48:55 -0300</pubDate>
             
-            <guid>http://bobirock.nahuedev.com.ar/posts/my-first-post/</guid>
+            <guid>http://bobirock.nahuedev.com.ar/posts/programacion-estructurada/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Fundamentos de  Base Datos</title>
+            <link>http://bobirock.nahuedev.com.ar/posts/fundamentos-base-datos/</link>
+            <pubDate>Mon, 24 Aug 2020 20:44:13 -0300</pubDate>
+            
+            <guid>http://bobirock.nahuedev.com.ar/posts/fundamentos-base-datos/</guid>
+            <description> </description>
+            <content type="html"><![CDATA[<hr>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Programación Orientada a Objetos</title>
+            <link>http://bobirock.nahuedev.com.ar/posts/programacion-oop/</link>
+            <pubDate>Mon, 24 Aug 2020 20:34:10 -0300</pubDate>
+            
+            <guid>http://bobirock.nahuedev.com.ar/posts/programacion-oop/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>

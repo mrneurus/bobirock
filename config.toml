@@ -1,14 +1,47 @@
 baseURL = "http://bobirock.nahuedev.com.ar/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "El baul de Bobi"
 theme = "hello-friend-ng"
+
+
+[taxonomies]
+  tag      = "tags"
+  category = "categorias"
+  series   = "series"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+[params.logo]
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    # logoCursorColor    = "#67a2c9"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+
+
+
+
+
 
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+    identifier = "queesesto"
+    name       = "Qué es esto"
+    url        = "queesesto/"
+
+    [[menu.main]]
+    identifier = "categorias"
+    name       = "Categorias"
+    url        = "categorias/"
+
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"

@@ -3,37 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bobirock.nahuedev.com.ar/posts/my-first-post/</loc>
-    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+    <loc>http://bobirock.nahuedev.com.ar/tags/c/</loc>
+    <lastmod>2020-08-24T20:48:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/categorias/</loc>
+    <lastmod>2020-08-24T20:48:55-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://bobirock.nahuedev.com.ar/</loc>
-    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+    <lastmod>2020-08-24T20:48:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/categorias/fundamentos-de-programaci%C3%B3n/</loc>
+    <lastmod>2020-08-24T20:48:55-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://bobirock.nahuedev.com.ar/posts/</loc>
-    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+    <lastmod>2020-08-24T20:48:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/posts/programacion-estructurada/</loc>
+    <lastmod>2020-08-24T20:48:55-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://bobirock.nahuedev.com.ar/tags/</loc>
-    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+    <lastmod>2020-08-24T20:48:55-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bobirock.nahuedev.com.ar/tags/untagged/</loc>
-    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+    <loc>http://bobirock.nahuedev.com.ar/categorias/base-de-datos/</loc>
+    <lastmod>2020-08-24T20:44:13-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bobirock.nahuedev.com.ar/about/</loc>
+    <loc>http://bobirock.nahuedev.com.ar/tags/base-datos/</loc>
+    <lastmod>2020-08-24T20:44:13-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/posts/fundamentos-base-datos/</loc>
+    <lastmod>2020-08-24T20:44:13-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/tags/mysql/</loc>
+    <lastmod>2020-08-24T20:44:13-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/tags/postgres/</loc>
+    <lastmod>2020-08-24T20:44:13-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/tags/opp/</loc>
+    <lastmod>2020-08-24T20:34:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/posts/programacion-oop/</loc>
+    <lastmod>2020-08-24T20:34:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/queesesto/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bobirock.nahuedev.com.ar/categories/</loc>
+    <loc>http://bobirock.nahuedev.com.ar/series/</loc>
   </url>
   
 </urlset>
