@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/posts/my-first-post/</loc>
+    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/</loc>
+    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/posts/</loc>
+    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/tags/</loc>
+    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/tags/untagged/</loc>
+    <lastmod>2020-08-24T20:10:42-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bobirock.nahuedev.com.ar/categories/</loc>
+  </url>
+  
+</urlset>
